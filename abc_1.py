@@ -1,4 +1,5 @@
 print("123")
-print("123")
 
 print("helloworld")
+print("abc")
+print("abc")
